@@ -1,0 +1,1 @@
+INSERT into etudiant (id, nom , prenom) values (NULL, 'Gueye', 'Adama')

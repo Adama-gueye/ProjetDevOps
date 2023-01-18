@@ -1,0 +1,1 @@
+INSERT into sujet (id, nom) values (NULL, 'Chef')
